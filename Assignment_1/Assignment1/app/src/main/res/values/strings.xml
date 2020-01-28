@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="calculatorActitivityButton">Calculator</string>
+    <string name="formActivityButton">Give Feedback</string>
+    <string name="addButton">Add</string>
+    <string name="subtractButton">Subtract</string>
+    <string name="multiplyButton">Multiply</string>
+    <string name="divideButton">Divide</string>
+    <string name="aValue">123</string>
+    <string name="bValue">123</string>
+    <string name="resultValue"></string>
+    <string name="resultVar">Result :</string>
+    <string name="nameTextView">Name</string>
+    <string name="rollNoTextView">Roll No.</string>
+    <string name="emailTextView">Email Id</string>
+    <string name="feedbackTextView">Feedback</string>
+    <string name="nameEditText">Subhani Shaik</string>
+    <string name="rollNoEditText">MT18117</string>
+    <string name="emailEditText">subhani18117@iiitd.ac.in</string>
+    <string name="feedbackEditText">Good..</string>
+    <string name="submitButton">Submit</string>
+    <string name="feedbackValueName">-</string>
+    <string name="feedbackValueRollNo">-</string>
+    <string name="feedbackValueEmail">-</string>
+    <string name="feedbackValueFeedback">-</string>
+</resources>

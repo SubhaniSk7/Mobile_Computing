@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SensorsAssignment3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Accelerometer">Accelerometer</string>
+    <string name="GPS">GPS</string>
+    <string name="WiFi">WiFi</string>
+    <string name="Microphone">Microphone</string>
+    <string name="SavedInfo">Saved Info</string>
+    <string name="Export">Export</string>
+    <string name="readingsHere">readings here....</string>
+    <string name="Save">Save</string>
+    <string name="HelloWorld">HelloWorld</string>
+</resources>

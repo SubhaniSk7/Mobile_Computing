@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DialogApplication</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_label">Next</string>
+    <string name="user">user</string>
+    <string name="activity2_message">Welcome to Activity 2</string>
+
+</resources>

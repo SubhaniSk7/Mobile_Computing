@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RecyclerView TextView Example</string>
+
+
+    <string-array name="contacts_list">
+        <item>Subhani</item>
+        <item>James Bond</item>
+        <item>Elon Musk</item>
+        <item>James Cameron</item>
+        <item>Bat Man</item>
+        <item>Iron Man</item>
+        <item>Black Panther</item>
+        <item>Joker</item>
+
+    </string-array>
+
+</resources>
